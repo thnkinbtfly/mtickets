@@ -1,0 +1,11 @@
+# tensorflow >= 1.11.0   # CPU Version of TensorFlow.
+# tensorflow-gpu  >= 1.11.0  # GPU version of TensorFlow.
+numpy==1.19.4
+pandas==1.4.3
+neptune-client==0.16.0
+typing-extensions==4.4.0
+transformers==4.19.4
+datasets
+tfrecord
+argunparse
+accelerate
